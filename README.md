@@ -1,3 +1,5 @@
+## LIVE: https://power-consumption-project.onrender.com
+
 # Power Demand Forecasting System
 
 A comprehensive machine learning system for predicting power consumption in industrial grids, specifically designed for Dhanbad, Jharkhand's coal mining region. The system integrates real-time weather data, regional holiday patterns, and temporal features to deliver accurate 24-hour power demand forecasts.
